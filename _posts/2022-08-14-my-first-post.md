@@ -14,4 +14,4 @@ date: 2022-08-14
 last_modified_at: 2022-08-14
 ---
 
-본 글은 {{page.date}}에 작성된 글입니다.
+본 글은 {{ page.date }}에 작성된 글입니다.
